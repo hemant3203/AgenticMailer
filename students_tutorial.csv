@@ -1,0 +1,6 @@
+first_name,last_name,email,phone,address
+John,Doe,john.doe@example.com,123-456-7890,"123 Main St, NY"
+Alice,Smith,alice.smith@example.com,987-654-3210,"456 Oak St, CA"
+Bob,Johnson,bob.johnson@example.com,555-123-4567,"789 Pine St, TX"
+Emma,Williams,emma.williams@example.com,444-987-6543,"321 Elm St, FL"
+Michael,Brown,michael.brown@example.com,222-333-4444,"654 Cedar St, IL"
